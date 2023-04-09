@@ -8,14 +8,6 @@
 # 385916 -> yes
 # 123456 -> no
 
-# ticket = int(input('Введите номер билета состоящий из 6ти цифр: '))
-
-# if ticket > 99_999 and ticket < 1_000_000:
-#     first_half = (ticket // 10**5)
-#     h = ((ticket // 10**4) % 10)
-#     print(first_half)
-#     print(h)
-
 
 ticket = input('Введите номер билета состоящий из 6ти цифр: ')
 
